@@ -192,7 +192,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*Limbus Company · Updated 2026-11-22 · Shared under the MIT License*
+*Limbus Company · Updated 2026-11-24 · Shared under the MIT License*
 
 
-*Last updated: 2026-11-22*
+*Last updated: 2026-11-24*
